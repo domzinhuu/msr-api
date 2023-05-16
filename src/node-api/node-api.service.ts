@@ -29,7 +29,7 @@ export class NodeApiService {
 
       const response = filter(result, (item: any) => item);
 
-      return Promise.resolve(response);
+      return Promise.resolve({ ...data, consolidateData: response });
     } catch (error) {
       return Promise.reject(
         new Error('Error ao processar os dados de usuario'),
