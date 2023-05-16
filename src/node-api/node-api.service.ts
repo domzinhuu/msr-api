@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { sumBy } from 'lodash';
+import { filter, sumBy } from 'lodash';
 import { userData } from 'src/data/userData';
 
 @Injectable()
@@ -27,7 +27,9 @@ export class NodeApiService {
         };
       });
 
-      return Promise.resolve(result);
+      const response = filter(result, (item: any) => item);
+
+      return Promise.resolve(response);
     } catch (error) {
       return Promise.reject(
         new Error('Error ao processar os dados de usuario'),
