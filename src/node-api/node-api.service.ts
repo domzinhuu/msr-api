@@ -13,8 +13,8 @@ export class NodeApiService {
     @InjectModel(Userdata.name) private userDataModel: Model<Userdata>,
   ) {}
 
-  public async getUserData(): Promise<any> {
-    return this.userDataModel.find().exec();
+  public async getUserData(): Promise<any[]> {
+    return this.userDataModel.find();
   }
 
   public async saveData(json: any): Promise<Userdata> {
@@ -32,6 +32,16 @@ export class NodeApiService {
       { new: true, lean: true },
     );
     return updated;
+  }
+
+  public async getJsonSettings(): Promise<any> {
+    const response = await this.getUserData();
+    if (response.length == 0) {
+      return null;
+    }
+
+    const data = response[0];
+    return data.json;
   }
 
   private prepareUserDataToSave(data: any): Userdata {

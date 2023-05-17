@@ -7,8 +7,13 @@ export class NodeApiController {
   constructor(private readonly nodeApiService: NodeApiService) {}
 
   @Get('userdata')
-  async getUserData(): Promise<string> {
+  async getUserData(): Promise<any[]> {
     return this.nodeApiService.getUserData();
+  }
+
+  @Get('settings')
+  async getSettings(): Promise<any[]> {
+    return this.nodeApiService.getJsonSettings();
   }
 
   @Post('userdata')
