@@ -36,6 +36,8 @@ export class Userdata {
   proximo: DateValue;
   @Prop()
   consolidateData: ConsolidateData[];
+  @Prop()
+  json: string;
 }
 
 export const UserdataSchema = SchemaFactory.createForClass(Userdata);

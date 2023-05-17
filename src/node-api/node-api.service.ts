@@ -62,6 +62,7 @@ export class NodeApiService {
       atual: data.atual,
       proximo: data.proximo,
       ultimoPagamento: data.ultimoPagamento,
+      json: JSON.stringify(data),
     };
   }
 

@@ -13,7 +13,6 @@ import { ConfigModule, ConfigService } from '@nestjs/config';
       imports: [ConfigModule],
       useFactory: async (config: ConfigService) => {
         const uri = config.get('DATABASE_URL');
-        console.log('AAAAAAAAAAAAAAAAAAAAAAAAAAA', uri);
         return { uri };
       },
       inject: [ConfigService],
