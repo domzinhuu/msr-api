@@ -26,6 +26,7 @@
     "@nestjs/core": "^9.0.0",
     "@nestjs/mongoose": "^9.2.2",
     "@nestjs/platform-express": "^9.0.0",
+    "cors": "^2.8.5",
     "json-server": "^0.17.3",
     "lodash": "^4.17.21",
     "luxon": "^3.3.0",
