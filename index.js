@@ -1,13 +1,13 @@
-import { create, router as _router, defaults, bodyParser } from 'json-server';
-import cors from 'cors';
-import { join } from 'path';
+const jsonServer = require('json-server');
+const cors = require('cors');
+const path = require('path');
 
-const server = create();
-const router = _router(join(__dirname, 'server.json'));
-const middlewares = defaults();
+const server = jsonServer.create();
+const router = jsonServer.router(path.join(__dirname, 'server.json'));
+const middlewares = jsonServer.defaults();
 
 server.use(cors());
-server.use(bodyParser);
+server.use(jsonServer.bodyParser);
 server.use(middlewares);
 server.use(router);
 
