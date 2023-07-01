@@ -9,21 +9,123 @@
             "valorPagar": "674.00",
             "valorReceber": "34436705.84",
             "valorTotal": "34437379.84",
-            "ultimoPagamento": "2042-11-22"
+            "ultimoPagamento": "2042-11-22",
+            "bandeiras": [
+              {
+                "name": "ACC",
+                "value": 0
+              },
+              {
+                "name": "ECC",
+                "value": 0
+              },
+              {
+                "name": "ECD",
+                "value": 0
+              },
+              {
+                "name": "HCC",
+                "value": 0
+              },
+              {
+                "name": "MCC",
+                "value": 0
+              },
+              {
+                "name": "MCD",
+                "value": 0
+              },
+              {
+                "name": "VCC",
+                "value": 0
+              },
+              {
+                "name": "VCD",
+                "value": 0
+              }
+            ]
           },
           {
             "document": "22222222000122",
             "valorPagar": "674.00",
             "valorReceber": "34436705.84",
             "valorTotal": "34437379.84",
-            "ultimoPagamento": "2042-11-22"
+            "ultimoPagamento": "2042-11-22",
+            "bandeiras": [
+              {
+                "name": "ACC",
+                "value": 0
+              },
+              {
+                "name": "ECC",
+                "value": 0
+              },
+              {
+                "name": "ECD",
+                "value": 0
+              },
+              {
+                "name": "HCC",
+                "value": 0
+              },
+              {
+                "name": "MCC",
+                "value": 0
+              },
+              {
+                "name": "MCD",
+                "value": 0
+              },
+              {
+                "name": "VCC",
+                "value": 0
+              },
+              {
+                "name": "VCD",
+                "value": 0
+              }
+            ]
           },
           {
             "document": "33333333000133",
             "valorPagar": "674.00",
             "valorReceber": "34436705.84",
             "valorTotal": "34437379.84",
-            "ultimoPagamento": "2042-11-22"
+            "ultimoPagamento": "2042-11-22",
+            "bandeiras": [
+              {
+                "name": "ACC",
+                "value": 0
+              },
+              {
+                "name": "ECC",
+                "value": 0
+              },
+              {
+                "name": "ECD",
+                "value": 0
+              },
+              {
+                "name": "HCC",
+                "value": 0
+              },
+              {
+                "name": "MCC",
+                "value": 0
+              },
+              {
+                "name": "MCD",
+                "value": 0
+              },
+              {
+                "name": "VCC",
+                "value": 0
+              },
+              {
+                "name": "VCD",
+                "value": 0
+              }
+            ]
           }
         ]
       },
@@ -35,21 +137,123 @@
             "valorPagar": "674.00",
             "valorReceber": "34436705.84",
             "valorTotal": "34437379.84",
-            "ultimoPagamento": "2042-11-22"
+            "ultimoPagamento": "2042-11-22",
+            "bandeiras": [
+              {
+                "name": "ACC",
+                "value": 0
+              },
+              {
+                "name": "ECC",
+                "value": 0
+              },
+              {
+                "name": "ECD",
+                "value": 0
+              },
+              {
+                "name": "HCC",
+                "value": 0
+              },
+              {
+                "name": "MCC",
+                "value": 0
+              },
+              {
+                "name": "MCD",
+                "value": 0
+              },
+              {
+                "name": "VCC",
+                "value": 0
+              },
+              {
+                "name": "VCD",
+                "value": 0
+              }
+            ]
           },
           {
             "document": "22222222000122",
             "valorPagar": "674.00",
             "valorReceber": "34436705.84",
             "valorTotal": "34437379.84",
-            "ultimoPagamento": "2042-11-22"
+            "ultimoPagamento": "2042-11-22",
+            "bandeiras": [
+              {
+                "name": "ACC",
+                "value": 0
+              },
+              {
+                "name": "ECC",
+                "value": 0
+              },
+              {
+                "name": "ECD",
+                "value": 0
+              },
+              {
+                "name": "HCC",
+                "value": 0
+              },
+              {
+                "name": "MCC",
+                "value": 0
+              },
+              {
+                "name": "MCD",
+                "value": 0
+              },
+              {
+                "name": "VCC",
+                "value": 0
+              },
+              {
+                "name": "VCD",
+                "value": 0
+              }
+            ]
           },
           {
             "document": "33333333000133",
             "valorPagar": "674.00",
             "valorReceber": "34436705.84",
             "valorTotal": "34437379.84",
-            "ultimoPagamento": "2042-11-22"
+            "ultimoPagamento": "2042-11-22",
+            "bandeiras": [
+              {
+                "name": "ACC",
+                "value": 0
+              },
+              {
+                "name": "ECC",
+                "value": 0
+              },
+              {
+                "name": "ECD",
+                "value": 0
+              },
+              {
+                "name": "HCC",
+                "value": 0
+              },
+              {
+                "name": "MCC",
+                "value": 0
+              },
+              {
+                "name": "MCD",
+                "value": 0
+              },
+              {
+                "name": "VCC",
+                "value": 0
+              },
+              {
+                "name": "VCD",
+                "value": 0
+              }
+            ]
           }
         ]
       },
@@ -61,21 +265,123 @@
             "valorPagar": "674.00",
             "valorReceber": "34436705.84",
             "valorTotal": "34437379.84",
-            "ultimoPagamento": "2042-11-22"
+            "ultimoPagamento": "2042-11-22",
+            "bandeiras": [
+              {
+                "name": "ACC",
+                "value": 0
+              },
+              {
+                "name": "ECC",
+                "value": 0
+              },
+              {
+                "name": "ECD",
+                "value": 0
+              },
+              {
+                "name": "HCC",
+                "value": 0
+              },
+              {
+                "name": "MCC",
+                "value": 0
+              },
+              {
+                "name": "MCD",
+                "value": 0
+              },
+              {
+                "name": "VCC",
+                "value": 0
+              },
+              {
+                "name": "VCD",
+                "value": 0
+              }
+            ]
           },
           {
             "document": "22222222000122",
             "valorPagar": "674.00",
             "valorReceber": "34436705.84",
             "valorTotal": "34437379.84",
-            "ultimoPagamento": "2042-11-22"
+            "ultimoPagamento": "2042-11-22",
+            "bandeiras": [
+              {
+                "name": "ACC",
+                "value": 0
+              },
+              {
+                "name": "ECC",
+                "value": 0
+              },
+              {
+                "name": "ECD",
+                "value": 0
+              },
+              {
+                "name": "HCC",
+                "value": 0
+              },
+              {
+                "name": "MCC",
+                "value": 0
+              },
+              {
+                "name": "MCD",
+                "value": 0
+              },
+              {
+                "name": "VCC",
+                "value": 0
+              },
+              {
+                "name": "VCD",
+                "value": 0
+              }
+            ]
           },
           {
             "document": "33333333000133",
             "valorPagar": "674.00",
             "valorReceber": "34436705.84",
             "valorTotal": "34437379.84",
-            "ultimoPagamento": "2042-11-22"
+            "ultimoPagamento": "2042-11-22",
+            "bandeiras": [
+              {
+                "name": "ACC",
+                "value": 0
+              },
+              {
+                "name": "ECC",
+                "value": 0
+              },
+              {
+                "name": "ECD",
+                "value": 0
+              },
+              {
+                "name": "HCC",
+                "value": 0
+              },
+              {
+                "name": "MCC",
+                "value": 0
+              },
+              {
+                "name": "MCD",
+                "value": 0
+              },
+              {
+                "name": "VCC",
+                "value": 0
+              },
+              {
+                "name": "VCD",
+                "value": 0
+              }
+            ]
           }
         ]
       }
