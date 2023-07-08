@@ -12,36 +12,14 @@
             "ultimoPagamento": "2042-11-22",
             "bandeiras": [
               {
-                "name": "ACC",
-                "value": 332
-              },
-              {
                 "name": "ECC",
-                "value":875
+                "valorReceber": 219800,
+                "valorPagar": 11009
               },
               {
                 "name": "ECD",
-                "value": 1472
-              },
-              {
-                "name": "HCC",
-                "value": 588
-              },
-              {
-                "name": "MCC",
-                "value": 548
-              },
-              {
-                "name": "MCD",
-                "value":693
-              },
-              {
-                "name": "VCC",
-                "value": 545
-              },
-              {
-                "name": "VCD",
-                "value": 152
+                "valorReceber": 124459,
+                "valorPagar": 12876
               }
             ]
           },
@@ -53,36 +31,14 @@
             "ultimoPagamento": "2042-11-22",
             "bandeiras": [
               {
-                "name": "ACC",
-                "value": 332
-              },
-              {
-                "name": "ECC",
-                "value":875
-              },
-              {
-                "name": "ECD",
-                "value": 1472
-              },
-              {
-                "name": "HCC",
-                "value": 588
-              },
-              {
-                "name": "MCC",
-                "value": 548
-              },
-              {
-                "name": "MCD",
-                "value":693
-              },
-              {
                 "name": "VCC",
-                "value": 545
+                "valorReceber": 329800,
+                "valorPagar": 50690
               },
               {
                 "name": "VCD",
-                "value": 152
+                "valorReceber": 99800,
+                "valorPagar": 10600
               }
             ]
           },
@@ -95,35 +51,8 @@
             "bandeiras": [
               {
                 "name": "ACC",
-                "value": 332
-              },
-              {
-                "name": "ECC",
-                "value":875
-              },
-              {
-                "name": "ECD",
-                "value": 1472
-              },
-              {
-                "name": "HCC",
-                "value": 588
-              },
-              {
-                "name": "MCC",
-                "value": 548
-              },
-              {
-                "name": "MCD",
-                "value":693
-              },
-              {
-                "name": "VCC",
-                "value": 545
-              },
-              {
-                "name": "VCD",
-                "value": 152
+                "valorReceber": 546890,
+                "valorPagar": 140600
               }
             ]
           }
@@ -141,35 +70,18 @@
             "bandeiras": [
               {
                 "name": "ACC",
-                "value": 332
-              },
-              {
-                "name": "ECC",
-                "value":875
+                "valorReceber": 90390,
+                "valorPagar": 1260
               },
               {
                 "name": "ECD",
-                "value": 1472
+                "valorReceber": 16982.99,
+                "valorPagar": 7900.00
               },
               {
                 "name": "HCC",
-                "value": 588
-              },
-              {
-                "name": "MCC",
-                "value": 548
-              },
-              {
-                "name": "MCD",
-                "value":693
-              },
-              {
-                "name": "VCC",
-                "value": 545
-              },
-              {
-                "name": "VCD",
-                "value": 152
+                "valorReceber": 44893.99,
+                "valorPagar": 34990
               }
             ]
           },
@@ -181,36 +93,14 @@
             "ultimoPagamento": "2042-11-22",
             "bandeiras": [
               {
-                "name": "ACC",
-                "value": 332
-              },
-              {
-                "name": "ECC",
-                "value":875
-              },
-              {
-                "name": "ECD",
-                "value": 1472
-              },
-              {
-                "name": "HCC",
-                "value": 588
-              },
-              {
-                "name": "MCC",
-                "value": 548
-              },
-              {
-                "name": "MCD",
-                "value":693
-              },
-              {
                 "name": "VCC",
-                "value": 545
+                "valorReceber": 327990,
+                "valorPagar": 120400
               },
               {
                 "name": "VCD",
-                "value": 152
+                "valorReceber": 90000,
+                "valorPagar": 0
               }
             ]
           },
@@ -223,35 +113,13 @@
             "bandeiras": [
               {
                 "name": "ACC",
-                "value": 332
+                "valorReceber": 234987,
+                "valorPagar": 87690
               },
               {
                 "name": "ECC",
-                "value":875
-              },
-              {
-                "name": "ECD",
-                "value": 1472
-              },
-              {
-                "name": "HCC",
-                "value": 588
-              },
-              {
-                "name": "MCC",
-                "value": 548
-              },
-              {
-                "name": "MCD",
-                "value":693
-              },
-              {
-                "name": "VCC",
-                "value": 545
-              },
-              {
-                "name": "VCD",
-                "value": 152
+                "valorReceber": 145009,
+                "valorPagar": 15490
               }
             ]
           }
@@ -269,35 +137,23 @@
             "bandeiras": [
               {
                 "name": "ACC",
-                "value": 332
+                "valorReceber": 53887.60,
+                "valorPagar": 5569.70
               },
               {
                 "name": "ECC",
-                "value":875
+                "valorReceber": 22113.00,
+                "valorPagar": 3224.30
               },
               {
                 "name": "ECD",
-                "value": 1472
+                "valorReceber": 16982.99,
+                "valorPagar": 23900.00
               },
               {
                 "name": "HCC",
-                "value": 588
-              },
-              {
-                "name": "MCC",
-                "value": 548
-              },
-              {
-                "name": "MCD",
-                "value":693
-              },
-              {
-                "name": "VCC",
-                "value": 545
-              },
-              {
-                "name": "VCD",
-                "value": 152
+                "valorReceber": 52556.99,
+                "valorPagar": 7545
               }
             ]
           },
@@ -310,35 +166,29 @@
             "bandeiras": [
               {
                 "name": "ACC",
-                "value": 332
+                "valorReceber": 43986,
+                "valorPagar": 8569.70
               },
               {
                 "name": "ECC",
-                "value":875
-              },
-              {
-                "name": "ECD",
-                "value": 1472
+                "valorReceber": 44321.00,
+                "valorPagar": 1234
               },
               {
                 "name": "HCC",
-                "value": 588
+                "valorReceber": 78912.99,
+                "valorPagar": 23192
               },
               {
                 "name": "MCC",
-                "value": 548
+                "valorReceber": 89909,
+                "valorPagar": 12789
               },
-              {
-                "name": "MCD",
-                "value":693
-              },
+           
               {
                 "name": "VCC",
-                "value": 545
-              },
-              {
-                "name": "VCD",
-                "value": 152
+                "valorReceber": 99320,
+                "valorPagar": 34689
               }
             ]
           },
@@ -350,36 +200,24 @@
             "ultimoPagamento": "2042-11-22",
             "bandeiras": [
               {
-                "name": "ACC",
-                "value": 332
-              },
-              {
-                "name": "ECC",
-                "value":875
-              },
-              {
-                "name": "ECD",
-                "value": 1472
-              },
-              {
-                "name": "HCC",
-                "value": 588
-              },
-              {
                 "name": "MCC",
-                "value": 548
+                "valorReceber": 54776,
+                "valorPagar": 19872
               },
               {
                 "name": "MCD",
-                "value":693
+                "valorReceber": 27654,
+                "valorPagar": 4676
               },
               {
                 "name": "VCC",
-                "value": 545
+                "valorReceber": 165879,
+                "valorPagar": 32768
               },
               {
                 "name": "VCD",
-                "value": 152
+                "valorReceber": 87900,
+                "valorPagar": 0
               }
             ]
           }
