@@ -20,6 +20,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
       - run: npm ci
+      - run: npm install pm2 -g
       - run: npm run build
       - run: pm2 stop --silent api
       - run: pm2 delete --silent api
