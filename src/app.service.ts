@@ -18,7 +18,7 @@ export class AppService {
         map((result) => {
           return {
             userName: result.data.login,
-            avatar: result.data.avtar_url,
+            avatar: result.data.avatar_url,
             name: result.data.name,
             location: result.data.location,
             bio: result.data.bio,
