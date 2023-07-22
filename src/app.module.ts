@@ -1,23 +1,10 @@
 import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
-import { NodeApiModule } from './node-api/node-api.module';
-import { MongooseModule } from '@nestjs/mongoose';
-import { ConfigModule, ConfigService } from '@nestjs/config';
+import { HttpModule } from '@nestjs/axios';
 
 @Module({
-  imports: [
-    NodeApiModule,
-    ConfigModule.forRoot({ isGlobal: true }),
-    MongooseModule.forRootAsync({
-      imports: [ConfigModule],
-      useFactory: async (config: ConfigService) => {
-        const uri = config.get('DATABASE_URL');
-        return { uri };
-      },
-      inject: [ConfigService],
-    }),
-  ],
+  imports: [HttpModule],
   controllers: [AppController],
   providers: [AppService],
 })
