@@ -11,12 +11,18 @@ export class AppService {
     return 'Hello World!';
   }
 
-  getGithubUserData(username: string): Observable<AxiosResponse<any>> {
+  getGithubUserData(username: string): Observable<any> {
     return this.httpService
       .get(`https://api.github.com/users/${username}`)
       .pipe(
         map((result) => {
-          return result.data;
+          return {
+            userName: result.data.login,
+            avatar: result.data.avtar_url,
+            name: result.data.name,
+            location: result.data.location,
+            bio: result.data.bio,
+          };
         }),
       );
   }
